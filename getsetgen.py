@@ -7,7 +7,7 @@ getter=""
 setter=""
 a=''
 for i in xrange(n):
-	c=raw_input("Enter column name?(in snake case)\n")
+	c=raw_input("Enter variable name?(in snake case)\n")
 	getter="get_" + str(c);
 	setter="set_"+c;
 	getter=to_camel_case(getter)

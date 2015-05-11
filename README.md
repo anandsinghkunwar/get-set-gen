@@ -1,1 +1,2 @@
-# get-set-gen
+## Getter Setter Function Generator
+#Simple to use
